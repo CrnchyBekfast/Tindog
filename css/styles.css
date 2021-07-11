@@ -120,6 +120,7 @@ body {
 
 .testimonial-image {
   padding: 2rem;
+  width:25%;
   border-radius: 100%;
 }
 
@@ -231,5 +232,11 @@ body {
   .cta-title{
     font-size: 3rem;
   }
+  
+  .testimonial-image {
+  padding: 0.8rem;
+  border-radius: 100%;
+  width: 75%;
+}
 
 }
